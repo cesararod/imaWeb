@@ -1,0 +1,16 @@
+C:\Users\Cesar Rodriguez\Documents\GitHub\imaWeb\dotnet-hiring-test\bin\Debug\net5.0\dotnet-hiring-test.exe
+C:\Users\Cesar Rodriguez\Documents\GitHub\imaWeb\dotnet-hiring-test\bin\Debug\net5.0\dotnet-hiring-test.deps.json
+C:\Users\Cesar Rodriguez\Documents\GitHub\imaWeb\dotnet-hiring-test\bin\Debug\net5.0\dotnet-hiring-test.runtimeconfig.json
+C:\Users\Cesar Rodriguez\Documents\GitHub\imaWeb\dotnet-hiring-test\bin\Debug\net5.0\dotnet-hiring-test.runtimeconfig.dev.json
+C:\Users\Cesar Rodriguez\Documents\GitHub\imaWeb\dotnet-hiring-test\bin\Debug\net5.0\dotnet-hiring-test.dll
+C:\Users\Cesar Rodriguez\Documents\GitHub\imaWeb\dotnet-hiring-test\bin\Debug\net5.0\dotnet-hiring-test.pdb
+C:\Users\Cesar Rodriguez\Documents\GitHub\imaWeb\dotnet-hiring-test\obj\Debug\net5.0\dotnet-hiring-test.csproj.AssemblyReference.cache
+C:\Users\Cesar Rodriguez\Documents\GitHub\imaWeb\dotnet-hiring-test\obj\Debug\net5.0\dotnet-hiring-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar Rodriguez\Documents\GitHub\imaWeb\dotnet-hiring-test\obj\Debug\net5.0\dotnet-hiring-test.AssemblyInfoInputs.cache
+C:\Users\Cesar Rodriguez\Documents\GitHub\imaWeb\dotnet-hiring-test\obj\Debug\net5.0\dotnet-hiring-test.AssemblyInfo.cs
+C:\Users\Cesar Rodriguez\Documents\GitHub\imaWeb\dotnet-hiring-test\obj\Debug\net5.0\dotnet-hiring-test.csproj.CoreCompileInputs.cache
+C:\Users\Cesar Rodriguez\Documents\GitHub\imaWeb\dotnet-hiring-test\obj\Debug\net5.0\dotnet-hiring-test.dll
+C:\Users\Cesar Rodriguez\Documents\GitHub\imaWeb\dotnet-hiring-test\obj\Debug\net5.0\refint\dotnet-hiring-test.dll
+C:\Users\Cesar Rodriguez\Documents\GitHub\imaWeb\dotnet-hiring-test\obj\Debug\net5.0\dotnet-hiring-test.pdb
+C:\Users\Cesar Rodriguez\Documents\GitHub\imaWeb\dotnet-hiring-test\obj\Debug\net5.0\dotnet-hiring-test.genruntimeconfig.cache
+C:\Users\Cesar Rodriguez\Documents\GitHub\imaWeb\dotnet-hiring-test\obj\Debug\net5.0\ref\dotnet-hiring-test.dll
